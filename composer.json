@@ -1,0 +1,19 @@
+{
+    "name": "gcl/contact",
+    "description": "This will show contact form and send data to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lakshmi",
+            "email": "gclakshmi496@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gcl\\Contact\\": "src/"
+        }
+    }
+}
